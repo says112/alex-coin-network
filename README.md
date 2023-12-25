@@ -1,1 +1,1 @@
-# alex-coin-pool
+# alex-coin-network
